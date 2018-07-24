@@ -10,9 +10,9 @@
 /unity-environment/Assets/Gizmos*
 
 # Tensorflow Model Info
-/models
+#/models
 /summaries
-python/models
+#python/models
 python/summaries
 
 # Environemnt logfile
